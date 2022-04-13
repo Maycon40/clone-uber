@@ -1,4 +1,3 @@
-import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View, Pressable, Image } from 'react-native';
 
@@ -60,7 +59,7 @@ const styles = StyleSheet.create({
     color: '#fff',
 
     fontSize: 30,
-    fontWeight: 500
+    fontWeight: "500"
   },
 
   text: {
